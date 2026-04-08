@@ -9,12 +9,17 @@ This repository showcases my Power BI dashboard projects focused on business ana
 - Budget vs Actual analysis
 - Variance analysis by country
 - Time-series trend analysis
+- <img width="1410" height="818" alt="image" src="https://github.com/user-attachments/assets/f98f1894-8320-495b-b6f8-2b3c4be75202" />
+<img width="1410" height="818" alt="image" src="https://github.com/user-attachments/assets/e4024c50-0792-432d-a708-85ef97d9e12e" />
+
 
 2. Retail Sales Dashboard
 - Sales performance tracking
 - Category and regional insights
 - Trend analysis
 - Interactive filtering
+<img width="1926" height="1103" alt="image" src="https://github.com/user-attachments/assets/e1638bca-c697-4b67-80e6-0f9e9e4a5081" />
+
 
 🛠 Tools Used
 - Power BI
